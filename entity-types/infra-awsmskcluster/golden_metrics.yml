@@ -43,3 +43,5 @@ offlinePartitions:
       where: provider='AwsMskCluster'
       eventId: entityGuid
       eventName: entityName
+
+# Update: 2025-10-17
